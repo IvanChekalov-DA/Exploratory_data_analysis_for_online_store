@@ -54,14 +54,5 @@ The notebook contains various visualizations such as:
 * **Line Plots:** Sales dynamics over time (specifically for Europe, Ukraine, and specific categories).
 * **Scatter Plot:** Relationship between Profit and Shipment Time.
 
-## 🚀 How to Run
-1.  Clone the repository.
-2.  Ensure you have the required libraries installed:
-    ```bash
-    pip install pandas numpy matplotlib seaborn
-    ```
-3.  Place the source files (`countries.csv`, `events.csv`, `products.csv`) in the working directory.
-4.  Run the Jupyter Notebook or Python script.
-
 ---
 **Author:** [IvanChekalov-DA](https://github.com/IvanChekalov-DA)
